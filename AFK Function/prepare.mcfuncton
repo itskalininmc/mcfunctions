@@ -1,0 +1,16 @@
+# Author: Ilya Kalinin (itskalinin)
+# Telegram: itskalinin
+# Created: 11.01.2018 23:38
+
+# AFK Function
+
+# Starting Prepare
+
+scoreboard players tag @s add kalininafk_prepare
+
+# Tell
+tell @p[tag=kalininafk_prepare] Hello!
+tell @p[tag=kalininafk_prepare] It`s AFK Function (my first function)
+tell @p[tag=kalininafk_prepare] This function starting prepare, please wait!
+
+# Soon
